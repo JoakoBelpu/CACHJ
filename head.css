@@ -1,0 +1,150 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-radius: 500px;
+    margin: 20px;
+    border: 10px black;
+    padding: 20px;
+    font-family: Cambria;
+}
+.band {
+    display: block;
+    margin: auto;
+}
+
+.estadio {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+.nuevoestadio {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+.viejoestadio {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+.textoclub {
+    font-family: Georgia;
+    color: black;
+
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(255, 0, 0); 
+
+    margin-top: 30px;
+    margin-right: 85px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+}
+
+.textoestadio {
+    font-family: Georgia;
+    color: black;
+
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(255, 0, 0); 
+
+    margin-top: 30px;
+    margin-right: 85px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+}
+
+.textoestadio2 {
+    font-family: Georgia;
+    color: black;
+
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(255, 0, 0); 
+
+    margin-top: 30px;
+    margin-right: 85px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+}
+
+body {
+    background-image: url("fondo.jpg");
+}
+
+.camp {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 15px;
+    font-family: Cambria;    
+}
+
+tr {
+    vertical-align: initial;
+    padding: 5px;
+}
+
+.text1 {
+    font-family: Georgia;
+    color: black;
+
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(255, 0, 0); 
+
+    margin-top: 30px;
+    margin-right: 85px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+}
+
+.cuest {
+    font-family: Georgia;
+    color: black;
+
+    background-color: white;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid rgb(255, 0, 0); 
+
+    margin-top: 30px;
+    margin-right: 85px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+
+}
+
+.tabla {
+    border: hidden
+}
